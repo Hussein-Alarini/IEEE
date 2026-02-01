@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"c:\\Users\\AC\\Downloads\\IEEE\\Tasks\\Bitmasks\\F.cpp","tests":[{"id":1769870239236,"input":"4\n20 11 9 24","output":"26 5 7 22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\AC\\Downloads\\IEEE\\Tasks\\Bitmasks\\F.cpp","group":"local","local":true}
